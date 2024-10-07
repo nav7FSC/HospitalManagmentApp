@@ -24,7 +24,7 @@ The project addresses several critical aspects of hospital management, including
 
 - **Report Generation**: The application provides tools to create various reports, such as daily patient visits, treatment summaries, and financial performance. These reports help hospital management analyze trends, improve services, and make data-driven decisions.
 
-- **Responsive Design**: The user interface is designed to work well on both desktop and mobile devices. This flexibility allows hospital staff to access the system from different locations, enhancing usability and convenience.
+- **User-Friendly Interface**: The application features a thoughtfully designed user interface that prioritizes ease of use, ensuring a seamless experience for all users.
 
 ## Technologies Used
 - **JavaFX**: We choose JavaFX for creating the graphical user interface because it allows us to build a responsive and interactive application that enhances user experience.
