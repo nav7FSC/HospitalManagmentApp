@@ -41,4 +41,4 @@ The project addresses several critical aspects of hospital management, including
 - **Afaq Waris** (GitHub: [Afaq136](https://github.com/Afaq136))
 - **Philippe Jean** (GitHub: [Philippe-Je](https://github.com/Philippe-Je))
 - **Nav Singh** (GitHub: [nav7FSC](https://github.com/nav7FSC))
-- **Ashraf Sangi** (GitHub: [ahsan136](https://github.com/ahsan136))
+- **Ashraf Sangi** (GitHub: [ashsangi](https://github.com/ashsangi))
