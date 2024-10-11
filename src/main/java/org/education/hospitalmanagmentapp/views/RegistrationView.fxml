@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane xmlns:fx="http://javafx.com/fxml" fx:controller="org.education.hospitalmanagmentapp.controllers.RegistrationController">
+    <center>
+        <VBox spacing="10" alignment="CENTER" style="-fx-padding: 20;">
+            <Text font="$x1" text="Register" />
+            <TextField fx:id="usernameField" promptText="Username" />
+            <PasswordField fx:id="passwordField" promptText="Password" />
+            <TextField fx:id="emailField" promptText="Email" />
+            <Button text="Register" onAction="#handleRegister" />
+            <Label fx:id="errorLabel" textFill="red" />
+            <Button text="Back to Login" onAction="#handleBack" />
+        </VBox>
+    </center>
+</BorderPane>

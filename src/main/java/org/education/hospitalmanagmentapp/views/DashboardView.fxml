@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="org.education.hospitalmanagmentapp.controllers.DashboardController">
+    <Label text="Welcome to the Hospital Management Dashboard" />
+    <Button text="Manage Patients" onAction="#handleManagePatients" />
+    <Button text="Schedule Appointments" onAction="#handleScheduleAppointments" />
+    <Button text="Generate Reports" onAction="#handleGenerateReports" />
+    <Button text="Logout" onAction="#handleLogout" />
+</VBox>
